@@ -1,2 +1,7 @@
-# Projeto-Aplicado-I
-Um projeto criado para suprir necessidades de uma empresa no quesito de admnistração e tomada de decisão do dono.
+# Projeto Aplicado I
+
+Projeto criado para suprir necessidades de uma empresa no quesito de admnistração e tomada de decisão do dono.
+
+### 🌐 Fontes
+
+Dados Airbnb ->* [Dropwizard](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download)
