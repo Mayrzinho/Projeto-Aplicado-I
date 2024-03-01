@@ -2,6 +2,6 @@
 
 Projeto criado para suprir necessidades de uma empresa no quesito de admnistração e tomada de decisão do dono.
 
-### 🌐 Fontes
+### 🌐 Fontes dos dados
 
-Dados Airbnb ->* [Dropwizard](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download)
+Dados Airbnb -> [Dropwizard](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?resource=download)
